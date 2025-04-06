@@ -111,7 +111,7 @@ Identified vulnerabilities in multiple websites, implemented fixes with stakehol
   <a href="mailto:sbhashyam970@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sravan-bhashyam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Bhashyam39" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1yel25wSuiPwQivnGoKSfajzXMj1G0voT/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-00C853?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+  
 </p>
 
 ---
