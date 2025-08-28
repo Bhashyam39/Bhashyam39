@@ -50,11 +50,11 @@ I'm Sravan Kumar Bhashyam, a passionate and driven Computer Science student spec
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhashyam39&show_icons=true&theme=radical" alt="Sravan's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhashyam39&layout=compact&theme=radical" />
-</p>
+<!-- ### 📊 GitHub Stats -->
+<!-- <p align="center"> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Bhashyam39&show_icons=true&theme=radical" alt="Sravan's github stats" /> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhashyam39&layout=compact&theme=radical" /> -->
+<!-- </p> -->
 
 ---
 
