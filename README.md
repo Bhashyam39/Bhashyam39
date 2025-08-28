@@ -6,7 +6,7 @@
   <a href="mailto:bhashyam.sravan14@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sravan-bhashyam" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Bhashyam39" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1yel25wSuiPwQivnGoKSfajzXMj1G0voT/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-%2300C853.svg?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/17fRNmqGI17Y8QDr5nfjvrPSTTqXNhfmX/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-%2300C853.svg?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
   <a href="https://sravan-data.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6A1B9A?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
